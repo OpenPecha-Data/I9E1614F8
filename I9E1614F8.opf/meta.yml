@@ -1,0 +1,16 @@
+id: I9E1614F8
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:20:12.283343
+last_modified: 2023-02-08 15:20:12.283469
+source_metadata:
+  title: 'PP: Ratnaguṇasaṃcayagāthā'
+  language: bo
+bases:
+  C33B:
+    base_file: C33B.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

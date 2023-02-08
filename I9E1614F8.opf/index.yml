@@ -1,0 +1,135 @@
+id: 5f30742efc194209ad03f956ed5986f2
+annotation_type: index
+revision: '00001'
+annotations:
+  d512d9a1557d4a03a7278ba66a0ec2df:
+    base: C33B.txt
+    Chapters:
+    - title: 1. Sarvākārajñatācaryā
+      span:
+        start: 0
+        end: 5205
+    - title: 2. Śakra
+      span:
+        start: 5206
+        end: 7616
+    - title: 3. Aprameyaguṇadhāraṇapāramitāstūpasatkāra
+      span:
+        start: 7617
+        end: 9110
+    - title: 4. Guṇaparikīrtana
+      span:
+        start: 9111
+        end: 10432
+    - title: 5. Puṇyaparyāya
+      span:
+        start: 10433
+        end: 12134
+    - title: 6. Anumodanā
+      span:
+        start: 12135
+        end: 13807
+    - title: 7. Niraya
+      span:
+        start: 13808
+        end: 15101
+    - title: 8. Viśuddhi
+      span:
+        start: 15102
+        end: 15905
+    - title: 9. Stuti
+      span:
+        start: 15906
+        end: 16284
+    - title: 10. Dhāraṇīguṇa
+      span:
+        start: 16285
+        end: 18218
+    - title: 11. Mārakarma
+      span:
+        start: 18219
+        end: 20042
+    - title: 12. Lokasaṃdarśana
+      span:
+        start: 20043
+        end: 21771
+    - title: 13. Acintya
+      span:
+        start: 21772
+        end: 22158
+    - title: 14. Aupamya
+      span:
+        start: 22159
+        end: 23822
+    - title: 15. Deva
+      span:
+        start: 23823
+        end: 25328
+    - title: 16. Tathatā
+      span:
+        start: 25329
+        end: 26433
+    - title: 17. Avinivartanīyaliṅgākāra
+      span:
+        start: 26434
+        end: 27765
+    - title: 18. Śūnyatā
+      span:
+        start: 27766
+        end: 29292
+    - title: 19. Gaṅgadevābhaginī
+      span:
+        start: 29293
+        end: 30585
+    - title: 20. Upāyakauśalyamīmāṃsā
+      span:
+        start: 30586
+        end: 35022
+    - title: 21. Mārakarma
+      span:
+        start: 35023
+        end: 36575
+    - title: 22. Kalyāṇamitra
+      span:
+        start: 36576
+        end: 39011
+    - title: 23. Śakra
+      span:
+        start: 39012
+        end: 39786
+    - title: 24. Abhimāna
+      span:
+        start: 39787
+        end: 40925
+    - title: 25. Śikṣā
+      span:
+        start: 40926
+        end: 42045
+    - title: 26. Māyopama
+      span:
+        start: 42046
+        end: 43514
+    - title: 27. Sāra
+      span:
+        start: 43515
+        end: 45222
+    - title: 28. Avakīrṇakusuma
+      span:
+        start: 45223
+        end: 46544
+    - title: 29. Anugama
+      span:
+        start: 46545
+        end: 49151
+    - title: 30. Sadāprarudita
+      span:
+        start: 49152
+        end: 51811
+    - title: 31. Dharmodgata
+      span:
+        start: 51812
+        end: 55194
+    - title: 32. Parīndanā
+      span:
+        start: 55195
+        end: 56721
